@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react-swc'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/ashx/",
+  base: "/https://github.com/Toluwani2000/vitejs-landingPage.git/",
   plugins: [react()],
 })
